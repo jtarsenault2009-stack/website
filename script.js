@@ -1,19 +1,29 @@
 // ===== EDIT YOUR MESSAGES HERE =====
 const memories=[
-{id:"favorite",label:"My favorite picture of us",title:"One of my favorite moments ❤️",text:"This picture is one of my favorites because it reminds me how happy I am when I'm with you.\n\nI could look at this memory a thousand times and still smile."},
+{id:"favorite",label:"My favorite picture of us",title:"One of my favorite pictures. ❤️",text:"This picture is one of my favorites because it reminds me how happy I am when I'm with you.\n\nI could look at this memory a thousand times and still smile."},
 {id:"memory",label:"My favorite memory with you",title:"A memory I'll always keep",text:"This is one of those memories I know I'll never forget.\n\nIt's not just what we did — it's how happy I felt being there with you."},
 {id:"met",label:"The day we met",title:"Where our story started",text:"I had no idea that meeting you that day would become the beginning of so many memories.\n\nI'm really glad our paths crossed."},
 {id:"little",label:"The little things",title:"It's the little things",text:"Sometimes it's the smallest things about you that mean the most to me.\n\nYour laugh, your personality, the random moments, and just being around you — those are the things I appreciate more than I can explain."}
 ];
-const finalMessage=`I don't think I could ever fit everything I feel for you into one website, but I wanted to try.
+const finalMessage=`Izabella I honestly don’t even know where to start
 
-Thank you for every laugh, every memory, every conversation, and every little moment we've shared.
+because there’s so much I could say about you and about us 
 
-You make so many ordinary moments feel special, and I'm genuinely grateful for all the time I get to spend with you.
+but I just want you to know how much you really mean to me 
 
-I hope we keep making memories that we'll look back on someday and smile about.
+and how grateful I am that I met you I love all the big moments we’ve had together 
 
-No matter how much time passes, I'll always be thankful that I met you.
+but I think I appreciate the little things even more 
+
+the random conversations the stupid jokes the times we’re just sitting around doing nothing and somehow those end up being some of my favorite moments 
+
+I love being around you and I love how you can make a normal day feel way better just by being there
+
+you’ve given me so many memories that I know I’m going to look back on and smile about and I hope we keep making more and more of them 
+
+I know neither of us is perfect and we’re going to have our moments but I wouldn’t trade what we have for anything because you’re someone I genuinely care about and someone I’m always going to appreciate 
+
+I’m glad our paths crossed and I’m glad that out of all the people in the world I got to meet you I hope you always know that you’re important to me and that you have a special place in my heart I love you so much Izabella and I’m really looking forward to everything we still have ahead of us
 
 I love you, Izabella. ❤️`;
 
