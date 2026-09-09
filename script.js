@@ -19,10 +19,10 @@ I love you, Izabella. ❤️`;
 
 // Later, replace null with filenames like "images/favorite.jpg"
 const photos={
-  favorite:"20250317_172040.jpg",
-  memory:"20260611_111959.jpg",
-  met:"20260716_141417.jpg",
-  little:"IMG_20260602_185148_624.webp"
+  favorite:"20260611_111959.jpg",
+  memory:"IMG_20260602_185148_624.webp",
+  met:"20250317_172040.jpg",
+  little:"20260716_141417.jpg"
 };
 // ===== DON'T NEED TO EDIT BELOW =====
 let unlocked=0;
